@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/banchay"
+            android:title="Bán Chạy" />
+<!--            android:icon="@drawable/vongtay"-->
+
+        <item
+            android:id="@+id/donhang"
+            android:title="Đơn Hàng" />
+<!--        <item-->
+<!--            android:id="@+id/vang"-->
+<!--            android:icon="@drawable/daychuyen"-->
+<!--            android:title="Trang sức bằng vàng"-->
+<!--            app:showAsAction="never">-->
+<!--        </item>-->
+<!--        <item-->
+<!--            android:id="@+id/bạc"-->
+<!--            android:icon="@drawable/nhan"-->
+<!--            android:title="Trang sức bằng bạc"-->
+<!--            app:showAsAction="never">-->
+<!--        </item>-->
+<!--        <item-->
+<!--            android:id="@+id/cuoi"-->
+<!--            android:icon="@drawable/hoatai"-->
+<!--            android:title="Trang sức cưới " />-->
+    </group>
+</menu>

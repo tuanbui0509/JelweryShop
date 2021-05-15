@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bongtaivang"
+        android:title="Bông tai"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/lacvang"
+        android:title="Lắc và vòng tay"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/daychuyenvàng"
+        android:title="Dây chuyền"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/charmvang"
+        android:title="Charm Diy"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/khacvang"
+        android:title="Chủng loại khác"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/nhanvang"
+        android:title="Nhẫn"
+        app:showAsAction="never"
+        />
+
+</menu>
